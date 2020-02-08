@@ -1,3 +1,7 @@
+## EQ Works Product Test Project ~ Parth Patel
+
+Hi! Thank you so much for providing me with the opportunity to take this test. You can find my personal note regarding why I would like to works at EQ Works in the src folder [here](./src/personal-note.txt). All the code for the front end tasks is available in the [components](./src/components) folder. The backend code is hosted on [glitch](https://glitch.com/~hill-roar). Thank you once again for your time and consideration!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
